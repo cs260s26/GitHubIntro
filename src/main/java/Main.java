@@ -8,6 +8,7 @@ public class Main {
         strings.add("Yes");
         strings.add("No");
         strings.add("Maybe");
+        strings.add("Signs point to yes");
         strings.add("You can count on it!");
         strings.add("Definitely not!");
         strings.add("Unclear. Try again later.");
