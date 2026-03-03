@@ -10,7 +10,9 @@ public class Main {
         strings.add("Maybe");
         strings.add("You can count on it!");
         strings.add("Definitely not!");
+        strings.add("Hmmm, unlikely");
         strings.add("Unclear. Try again later.");
+        strings.add("Get good");
 
         Random random = new Random();
         String randomString = strings.get(random.nextInt(strings.size()));
