@@ -9,7 +9,9 @@ public class Main {
         strings.add("No");
         strings.add("Maybe");
         strings.add("You can count on it!");
+        strings.add("Definately and totatally not it");
         strings.add("Definitely not!");
+
         strings.add("Unclear. Try again later.");
 
         Random random = new Random();
