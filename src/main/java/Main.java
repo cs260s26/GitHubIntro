@@ -11,6 +11,8 @@ public class Main {
         strings.add("You can count on it!");
         strings.add("Definitely not!");
         strings.add("Unclear. Try again later.");
+        strings.add("Let the Gods decide!!!!!");
+        strings.add("By all means:/");
 
         Random random = new Random();
         String randomString = strings.get(random.nextInt(strings.size()));
