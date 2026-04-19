@@ -34,7 +34,7 @@ Now you can clone your fork to your computer. This works just like cloning from
 git-keeper, but here you get the clone URL from GitHub. On the page for your
 fork (**make sure you are in your fork and not the original repository by
 looking at the URL in the address bar which should contain your username and 
-*not* cs260s24**) click the green "Code" button, and **make sure to select 
+*not* cs260s26**) click the green "Code" button, and **make sure to select 
 SSH**. Copy the URL, and then clone the repository as you would a git-keeper
 assignment. The repository contains Markdown files and Java code, so you can
 open the repository in IntelliJ.
@@ -52,8 +52,7 @@ takes you to a page where you can review the changes you have made. You should
 see that `contributors.md` was modified and that your name was added. If
 everything looks good, click on "Create pull request". On the next page you
 should see the title of the pull request filled in with the contents of your
-commit message. Now you can complete the process by pressing "Create pull
-request" again on this page.
+commit message.
 
 Now I would be able to merge your changes into the main repository.
 
